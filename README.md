@@ -57,4 +57,6 @@ Proses	Program membandingkan panjang ketiga sisi menggunakan kondisi logika:
 •	Jika semua sisi berbeda maka segitiga sembarang.
 Output	Jenis segitiga berdasarkan panjang sisi.
 
+<img width="1920" height="1080" alt="Screenshot 2026-09-03 145500" src="https://github.com/user-attachments/assets/ffb1c52e-2d90-4af9-b2b5-bca80e6321ea" />
+
 
