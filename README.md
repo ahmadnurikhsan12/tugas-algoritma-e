@@ -36,3 +36,12 @@ flowchart TD
     F --> H
     G --> H
 ```
+
+
+## 📥 Input – Proses – Output
+
+| **Komponen** | **Keterangan** |
+|---|---|
+| **Input** | • Panjang sisi pertama.<br>• Panjang sisi kedua.<br>• Panjang sisi ketiga. |
+| **Proses** | Program membandingkan panjang ketiga sisi menggunakan kondisi logika:<br><br>• Jika sisi 1 = sisi 2 **dan** sisi 2 = sisi 3, maka segitiga sama sisi.<br>• Jika sisi 1 = sisi 2 **atau** sisi 1 = sisi 3 **atau** sisi 2 = sisi 3, maka segitiga sama kaki.<br>• Jika semua sisi berbeda, maka segitiga sembarang. |
+| **Output** | Jenis segitiga berdasarkan panjang sisi. |
